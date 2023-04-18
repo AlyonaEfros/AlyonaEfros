@@ -1,5 +1,5 @@
 <h1>Hi there, I'm <a href="(https://github.com/AlyonaEfros)" target="_blank">Alyona</a> 
-<h3>QA Engineer</h3>
+<h3>Junior QA Automation Engineer</h3>
 
 <!--
 **AlyonaEfros/AlyonaEfros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
