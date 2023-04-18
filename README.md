@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="(https://github.com/AlyonaEfros)" target="_blank">Darya</a> 
+<h1 align="center">Hi there, I'm <a href="(https://github.com/AlyonaEfros)" target="_blank">Alyona</a> 
 <h3 align="center">QA Engineer from Russia </h3>
 
 <!--
