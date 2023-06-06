@@ -16,9 +16,9 @@
  #### My study projects for [qa guru](https://qa.guru/) school of automated testing  :mortar_board:
   
 
-![Readme Card](https://github.com/AlyonaEfros/Diplom_ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyonaEfros&repo=Diplom_ui&theme=solarized-light)](https://github.com/AlyonaEfros/Diplom_ui)
 
-![Readme Card](https://github.com/AlyonaEfros/Diplom_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlyonaEfros&repo=Diplom_api&theme=solarized-light)](https://github.com/AlyonaEfros/Diplom_api)
 
  
 ### You can find me on:
