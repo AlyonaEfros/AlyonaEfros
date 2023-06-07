@@ -24,4 +24,4 @@
 ### You can find me on:
 
 +  Email - AlyonaEfros@yandex.ru
-+  Telegram - https://t.me/@AlyonaEfros
++  Telegram - https://t.me/AlyonaEfros
